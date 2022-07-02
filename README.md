@@ -1,1 +1,3 @@
 # DEEP-SURVIVAL-PERSONALIZED-TREATMENT-RECOMMENDER-SYSTEM
+
+This was the part of my final presentation of survival analysis course in my masters. Here I have read the following paper [ DeepSurv: personalized treatment recommender system using a Cox proportional hazards deep neural network | BMC Medical Research Methodology | Full Text (biomedcentral.com)] and have done some experiment using this knowledge with heart failure data set(UCI). This paper is about how one can use neural network to implement non linear survival model and how to use that for personalized treatment. Paper presentation and a sample code is also attached in this repository.
